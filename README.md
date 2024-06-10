@@ -4,9 +4,9 @@
 
 Aspiring Frontend Developer currently pursuing a third-year degree in Software Analysis and Development. Passionate about web development with a solid foundation in HTML, CSS, and JavaScript. Eager to apply academic knowledge and learn in a practical, real-world environment.
 
-- 🌍  I'm based in Argentina
-- ✉️  You can contact me at [marcos_reynoso95@hotmail.com](mailto:marcos_reynoso95@hotmail.com)
-- 🤝  I'm open to collaborating on projects on the Frontend side and learn new things.
+- 🌍 I'm based in Argentina
+- ✉️ You can contact me at [marcos_reynoso95@hotmail.com](mailto:marcos_reynoso95@hotmail.com)
+- 🤝 I'm open to collaborating on projects on the Frontend side and learn new things.
 
 ### Skills
 
@@ -16,8 +16,7 @@ Aspiring Frontend Developer currently pursuing a third-year degree in Software A
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/marcos-reynoso" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/marcos-reynoso-744a58153/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
+<p align="left"> <a href="https://www.github.com/marcos-reynoso" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marcos-reynoso-744a58153/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -25,7 +24,5 @@ Aspiring Frontend Developer currently pursuing a third-year degree in Software A
 <a href="http://www.github.com/marcos-reynoso"><img src="https://github-readme-stats.vercel.app/api?username=marcos-reynoso&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=14b8a6&icon_color=444e59&bg_color=1c1917&hide_border=true&show_icons=true" alt="marcos-reynoso's GitHub stats" /></a>
 
 <a href="http://www.github.com/marcos-reynoso"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-reynoso&stroke=14b8a6&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=14b8a6&currStreakLabel=a855f7&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="http://www.github.com/marcos-reynoso"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=marcos-reynoso&bg_color=1c1917&color=14b8a6&line=444e59&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/marcos-reynoso" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-reynoso&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=444e59&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
