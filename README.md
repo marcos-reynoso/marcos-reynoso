@@ -1,8 +1,12 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marcos Reynoso
 
-## Frontend Web Developer
+## Software Developer
 
-Aspiring Frontend Developer currently pursuing a third-year degree in Software Analysis and Development. Passionate about web development with a solid foundation in HTML, CSS, and JavaScript. Eager to apply academic knowledge and learn in a practical, real-world environment.
+Software Developer , currently in the third year of a Technical Degree in Software Analysis and Development.
+Skilled in agile methodologies, HTML, CSS, databases, SQL, JavaScript, React.js, Laravel, Node.js, and PHP.
+Eager to apply my knowledge to real-world projects and grow professionally. Known for a proactive mindset,
+teamwork, attention to detail, and a passion for building modern, functional, and user-centered web interfaces.
+Seeking an opportunity to contribute my skills and continue learning in a collaborative environment.
 
 - 🌍 I'm based in Argentina
 - ✉️ You can contact me at [marcos_reynoso95@hotmail.com](mailto:marcos_reynoso95@hotmail.com)
@@ -16,8 +20,8 @@ Aspiring Frontend Developer currently pursuing a third-year degree in Software A
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/marcos-reynoso" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marcos-reynoso-744a58153/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+ <a href="https://www.linkedin.com/in/marcos-reynoso95/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 
 <b>My GitHub Stats</b>
 
