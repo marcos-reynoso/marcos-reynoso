@@ -3,7 +3,7 @@
 ## Software Developer
 
 Software Developer , currently in the third year of a Technical Degree in Software Analysis and Development.
-Skilled in agile methodologies, HTML, CSS, databases, SQL, JavaScript, React.js, Laravel, Node.js, and PHP.
+Skilled in agile methodologies, HTML, CSS, databases, SQL, JavaScript, React.js,TypeScript, Laravel, Node.js, and PHP.
 Eager to apply my knowledge to real-world projects and grow professionally. Known for a proactive mindset,
 teamwork, attention to detail, and a passion for building modern, functional, and user-centered web interfaces.
 Seeking an opportunity to contribute my skills and continue learning in a collaborative environment.
