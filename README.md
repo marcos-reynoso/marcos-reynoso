@@ -11,7 +11,6 @@ Estudiante de 3er año de **Tecnicatura en Desarrollo de Software** apasionado p
 - 🌍 **Gualeguaychú, Entre Ríos, Argentina**
 - 💼 Desarrollador Fullstack enfocado en **React + TypeScript**
 - 🎯 Especializado en crear interfaces intuitivas y backends robustos
-- 📚 Aprendizaje continuo: Actualmente explorando **IA** y **automatizaciones**
 - 🤝 Abierto a **colaboraciones** y oportunidades laborales remotas
 
 ---
@@ -57,6 +56,4 @@ Estudiante de 3er año de **Tecnicatura en Desarrollo de Software** apasionado p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-reynoso95)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos_reynoso95@hotmail.com)
 
----
 
-⭐️ **Disponible para trabajo remoto | Open to remote opportunities**
