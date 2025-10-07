@@ -1,6 +1,6 @@
 # 👋 Hola, soy Marcos Reynoso
 
-### Fullstack Developer | React • Node.js • TypeScript • Laravel
+### Frontend Developer | React • Node.js • TypeScript • Laravel
 
 Estudiante de 3er año de **Tecnicatura en Desarrollo de Software** apasionado por crear soluciones web que resuelvan problemas reales.
 
@@ -9,7 +9,6 @@ Estudiante de 3er año de **Tecnicatura en Desarrollo de Software** apasionado p
 ## 🚀 Sobre mí
 
 - 🌍 **Gualeguaychú, Entre Ríos, Argentina**
-- 💼 Desarrollador Fullstack enfocado en **React + TypeScript**
 - 🎯 Especializado en crear interfaces intuitivas y backends robustos
 - 🤝 Abierto a **colaboraciones** y oportunidades laborales remotas
 
